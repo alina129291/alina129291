@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alina129291
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning webdev
+
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on learning projects for webdev
 
 <!---
